@@ -20,7 +20,3 @@ William a fait la recherche pour les librairies et monté le code des modules (A
 -  BMP280 : https://github.com/5gtP3pp3r/SideProject_Module_BMP280
 -  Servo moteur : https://github.com/5gtP3pp3r/SideProject_Module_ServoMoteur
 -  MQTT : https://github.com/5gtP3pp3r/AMOC_Module_13_MQTT_Broadcast_LED
-- autres repo à venir
-## Lien de la vidéo de présentation
-- Lien YouTube #1 (vidéo explicative) : https://youtu.be/mV61G450K4U
-- Lien Youtube #2 (publicité incroyable) : https://youtu.be/dz5EvcmH7m0
